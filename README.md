@@ -1,13 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3740e6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3740e6&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Alyson+Almeida;Systems+Analysis+Development+Student+at+Estácio;I'm+20+years+old;And+I'm++from+Paulista-+PE;Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Alyson+Almeida;Systems+Analysis+Development+Student+at+Estácio;I'm+20+years+old;And+I'm++from+Paulista,+PE;Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oalysonalmeida&show_icons=true&count_private=true&hide_border=true&title_color=3740e6&icon_color=3740e6&text_color=c9d1d9&bg_color=0d1117" alt="Alyson Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalysonalmeida&layout=compact&hide_border=true&title_color=3740e6&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oalysonalmeida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oalysonalmeida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oalysonalmeida&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oalysonalmeida&bg_color=0d1117&color=3740e6&line=3740e6&point=3740e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
 <img src="https://raw.githubusercontent.com/oalysonalmeida/oalysonalmeida/output/snake.svg" alt="Snake animation" />
 
@@ -85,4 +86,4 @@
 ###
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3740e6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>

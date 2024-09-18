@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">Main Skills 👾</h2>
+<h2 align="left">My Skills 👾</h2>
 
 ###
 

@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3740e6&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Alyson+Almeida;Systems+Analysis+Development+Student+at+Estácio;I'm+20+years+old;And+I'm++from+Paulista-+PE;Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oalysonalmeida&show_icons=true&count_private=true&border=true&title_color=3740e6&icon_color=3740e6&text_color=c9d1d9&bg_color=0d1117" alt="Alyson Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalysonalmeida&layout=compact&border=true&title_color=3740e6&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oalysonalmeida&show_icons=true&count_private=true&hide_border=true&title_color=3740e6&icon_color=3740e6&text_color=c9d1d9&bg_color=0d1117" alt="Alyson Almeida github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalysonalmeida&layout=compact&hide_border=true&title_color=3740e6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oalysonalmeida&bg_color=0d1117&color=3740e6&line=3740e6&point=3740e6&area=true&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oalysonalmeida&bg_color=0d1117&color=3740e6&line=3740e6&point=3740e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://raw.githubusercontent.com/oalysonalmeida/oalysonalmeida/output/snake.svg" alt="Snake animation" />
 
